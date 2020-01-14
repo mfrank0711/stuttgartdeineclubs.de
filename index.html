@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stuttgart deine Clubs</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+        integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+        integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous">
+    </script>
+
+    <script type="text/javascript">
+        $.getJSON("assets/js/data.json", function (data) {
+            var div = document.querySelector('#timeline');
+
+            for (var i = 0, l = data.Clubs.length; i < l; i++) {
+                if (i % 2 === 0) {
+                    fade = "js--fadeInLeft";
+                } else {
+                    fade = "js--fadeInRight"
+                }
+
+                if (data.Clubs[i].Image != undefined) {
+                    style = `
+                    <div class="timeline-content timeline-card ${fade}">
+                    <div class="timeline-img-header" style="background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('${data.Clubs[i].Image}') center center no-repeat; background-size: cover;">
+                        <h2>${data.Clubs[i].Name}</h2>
+                    </div>`;
+                } else {
+                    style = `
+                    <div class="timeline-content ${fade}">
+                        <h2>${data.Clubs[i].Name}</h2>`;
+                }
+
+                if (data.Clubs[i].Link != undefined) {
+                    url = `<a class="bnt-more" href="${data.Clubs[i].Link}">zum Artikel</a>`;
+                } else {
+                    url = ``;
+                }
+
+                var html = `
+                <div class="timeline-item">
+
+                    <div class="timeline-img"></div>
+                    ${style}
+                        <div class="date">GESCHLOSSEN SEIT ${data.Clubs[i].Date}</div>
+                        <p>${data.Clubs[i].Description}</p>
+                        ${url}
+                    </div>
+                </div>`;
+                div.insertAdjacentHTML('beforeend', html);
+            };
+        });
+    </script>
+
+</head>
+
+<body>
+    <header>
+        <div class="container text-center">
+            <h1>Stuttgart deine Clubs</h1>
+            <h2>Eine Dekade Clubbing in #0711</h2>
+        </div>
+    </header>
+
+    <section class="timeline">
+        <div class="container" id="timeline">
+
+        </div>
+    </section>
+
+    <footer>
+        <div class="container text-center">
+            <a href="https://twitter.com/mfrank0711" target="_blank">Hi!</a>
+            <a href="https://twitter.com/mfrank0711" target="_blank">Credits</a>
+            <a href="https://twitter.com/mfrank0711" target="_blank">Code</a>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

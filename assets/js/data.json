@@ -1,0 +1,171 @@
+{
+    "Clubs": [{
+            "Name": "Bravo Charlie",
+            "Date": "JANUAR 2010",
+            "Description": "Hier konnten früher die Fluggäste ihr Gepäck aufgeben und sich mit dem Bus zum Flughafen nach Echterdingen fahren lassen. Lange stand der Bau leer.",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.letzte-party-silvester-bravo-charlie-wird-abgerissen.e9addf17-7c9e-4774-af2c-ca47c7c35c7e.html",
+            "Image": "https://www.port01.com/uploads/cities/4/locations/4/2009-03-06_11%3A53%3A40_bravocharlie.jpg",
+            "Action": "closing"
+        },
+        {
+            "Name": "Club Bett",
+            "Date": "DEZEMBER 2011",
+            "Description": "Im Gegensatz zu den ganzen Theodor-Heuss-Bars/-Clubs vom Publikum her nicht so nobel. Vor 22 Uhr Eintritt kostenlos, danach 5 Euro. Bis ca. 22.30 Uhr stehen Tische und Stühle rum, die dann weggeräumt werden, so dass man Platz zum Tanzen hat.",
+            "Image": "https://cdn1.stuttgarter-zeitung.de/media.media.7cc0df7e-ee59-4e32-b8d4-cadb49e80e90.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.stuttgarter-nachtleben-clubs-rotieren-durch-die-stadt.e5981b94-f40f-493f-b313-956bfa01eb34.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Die Röhre",
+            "Date": "JANUAR 2012",
+            "Description": "Kultige Location für kleine Club-Konzerte fast aller Rock-Sub-Genres mit idyllischem Weg durch Bäume davor und authentischer Rock-Club-Atmosphäre im Inneren. Schmal und lang (eine Röhre halt) – man sieht aber von überall gut (außer man ist arg klein, denn die Bühne ist ziemlich niedrig), da relativ klein. Außerdem innenstadtnah. Da die Theke über fast eine komplett Seite geht, ist man zudem immer schön nah am Bier.",
+            "Image": "https://www.stuttgarter-nachrichten.de/media.media.2cff57af-639e-4971-9ec1-068bf3cde2aa.original1024.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.stuttgarter-nachtleben-kommt-die-roehre-wieder.4b556338-706d-4b69-8f46-6618440b8de7.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Zapata",
+            "Date": "FEBRUAR 2013",
+            "Description": "Das Zapata verfügt über 4 Floors und ist somit die größte Diskothek in Stuttgart. Im Club werden die Getränke mit der hauseigenen Währung Zapata bezahlt. Specials: Im Sommer hat der Biergarten geöffnet.",
+            "Image": "https://cdn1.stuttgarter-zeitung.de/media.media.43e22738-19bc-49ff-a7d2-f09f4e6b8a4a.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.das-zapata-schliesst-untersagter-kulturbetrieb.62eba07c-4b18-4540-8528-47e0752e431d.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "KimTimJim",
+            "Date": "FEBRUAR 2013",
+            "Description": "Aus einem ehemaligen chinesischen Restaurant im ersten Stock wird ein temporärer Zeitgeist Club. Asia Trash trifft auf Clubkultur. DER SOUND – Neu, unverbraucht und überraschend. Das hochwertige Booking verbindet internationale Artists, Live Acts und Local DJs. Grooviger House, melodischer Techno trifft auf Synthie Pop, Elektronica und New Folk. DIE DRINKS – Eine selektierte Auswahl an hochwertigen Getränken. Qualität statt Kopfschmerzen. NUR SAMSTAGS geöffnet.",
+            "Image": "https://www.gig-blog.net/wp-content/gallery/1301-erobique/img_6344.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.es-hat-sich-ausgehoust-kimtimjim-muss-wegen-baurechtlicher-maengel-schliessen.c24ed0bd-c3f3-4257-a03e-044b22b3b3dd.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Wurst und Fleisch",
+            "Date": "NOVEMBER 2013",
+            "Description": "An Wochenenden ein szeniger Club, in dem es gerne mal sehr voll, sehr heiß und sehr legendär wird, ist der Laden mit dem wohl ungewöhnlichsten Namen Stuttgarts unter der Woche und am Frühabend zusätzlich auch eine gemütliche Bar.",
+            "Image": "https://cdn1.stuttgarter-zeitung.de/media.media.d1b498cf-80f6-46ed-b103-1e7ef3ba9cd1.original1024.jpg",
+            "Link": "https://www.popbuero.de/wurst-und-fleisch-schliessung-und-neueroeffnung/",
+            "Action": "closing"
+        },
+        {
+            "Name": "Rocker 33",
+            "Date": "FEBRUAR 2014",
+            "Description": "A place without rules and laws, where art meets excess, puke and glamour.",
+            "Image": "https://www.stuttgarter-nachrichten.de/media.media.1b28bd17-6362-48ce-a4d9-9481d6e44a4b.original1024.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.mega-rave-zum-abschied-das-rocker-33-schliesst-die-pforten.e1b3e073-8bd5-4879-aa1f-c40e5a3510b6.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Super Popular Sanchez",
+            "Date": "MAI 2015",
+            "Description": "Temporäres Konzept. Die neue Location der Wurst & Fleisch- und Speakeasy-Crew - direkt an der Haltestelle Staatsgalerie",
+            "Image": "https://www.stuttgarter-zeitung.de/media.media.ccc1d6d2-ccf5-462a-823f-f849eb33ced1.original1024.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.partytipps-fuer-stuttgart-sanchez-verabschiedet-sich.9d0a8f27-7720-4314-bc16-ebbd68de4be8.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Suite212",
+            "Date": "JUNI 2015",
+            "Description": "In der zweistöckigen Suite 212 befindet sich eine Bar und ein Dancefloor. Der Innenraum ist als ein wohnliches Loft getaltet. Hier geht es ganz nach dem Motto Sehen und gesehen werden zu, alles hat ein bisschen einen New York Flair.",
+            "Image": "https://www.stuttgarter-nachrichten.de/media.media.179926f8-e82a-491b-9286-168b3e7f84cf.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.suite-212-in-stuttgart-die-mutter-aller-lounges-macht-schluss.72939371-511a-4f88-b0e3-6b886eeaeba6.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Cue",
+            "Date": "NOVEMBER 2016",
+            "Description": "Same same – but different! Kurz und knapp, das Speakeasy am Rotebühlplatz ist Vergangenheit. Warum? Schnuppe. Und jetzt? Freude! Denn im Februar geht’s im liebgewonnenen Keller an der Stadtmitte unter dem Namen Cue nahtlos weiter. Skepsis? Unbegründet, wie man bereits im Februar sehen kann. Sei es die New Yorker DJ Ikone Tony Touch, DJ Day, bekannt von Alloe Black, das Famous Deck Team oder DJ Desue, der das Opening am 02.Februar bestreiten wird – die Auswahl an Acts ist mehr als vielversprechend. So auch die neue Linie im Programm. Während die Freitage zum Teil musikalisch offener aufgestellt sind, wird der neue “Regulate” Samstag HipHop Sounds in seiner vollen Bandbreite präsentieren. Eine druckvolle Anlage, ausgelassene Partys und durchgefeierte Nächte. Ein Stichwort – Cue!",
+            "Image": "https://www.reflect.de/wp-content/uploads/2013/02/news_0113_cue2.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.stuttgarter-szeneklub-schliesst-ueberraschend-das-cue-macht-zu.9f46d44f-7ebd-45ae-a4ae-a11d12549a32.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Club Zollamt",
+            "Date": "DEZEMBER 2016",
+            "Description": "4 Floors, ein großer Außenbereich, der im Sommer zum gemütlichen Zusammensitzen einlädt und ein Wagon der zum Feiern anregt, dass ist das was den Club Zollamt ausmacht. So bunt, wie das Publikum, ist auch die Musikauswahl der Events – hier wird alles angeboten, von einer Ü30-Fete, der Reggae Dancehall Reihe WUK’n’Wild, einer OUR DARKNESS und zahlreichen Elektronischer Events. Oftmals steigt nicht nur eine Party, der große Mainfloor lässt sich auch problemlos von der Zollamt Lounge - kurz ZALo - abtrennen, so können an einem Abend parallel zwei Events stattfinden.",
+            "Image": "https://prinz.de/wp-content/uploads/2013/10/club-zollamt.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.der-club-zollamt-schliesst-biotop-der-menschlichkeit.5fc88ed4-2d60-4596-b122-a973c6ae475c.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Zwölfzehn",
+            "Date": "MÄRZ 2017",
+            "Description": "indie - rock n roll - punk - raggea - hiphop",
+            "Image": "https://www.kessel.tv/wp-content/uploads/2017/04/zwoelfzehn.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.club-in-stuttgart-mitte-schliesst-das-zwoelfzehn-macht-dicht.2db7020f-f3af-41c4-be10-f7d6924ed748.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Muttermilch",
+            "Date": "JULI 2018",
+            "Description": "Die Muttermilch - Oder kurz einfach nur mumi. Ein extravagantes Zuhause an Stuttgarts Hauptschlagader des Nachtlebens. Tagsüber Bar und Lounge, abends Club. Und das gleich auf drei Ebenen.",
+            "Image": "https://www.stuttgarter-nachrichten.de/media.media.2b2efaae-2936-4940-83ba-970647a6bbcc.original1024.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/inhalt.nachtleben-in-stuttgart-muttermilch-und-tonstudio-muessen-schliessen.34474d33-f1b8-4acf-8cf6-c2e8cbbf8c9f.html",
+            "Action": "closing"
+        },
+        {
+            "Name": "Tonstudio",
+            "Date": "JUNI 2018",
+            "Description": "Der Club befindet sich in den Räumlichkeiten eines ehemaligen Aufnahmestudios und hat bei der Einrichtung darauf geachtet, den Charme nicht wesentlich zu verändern, sondern beizubehalten und nur um ein paar Details zu erweitern. Ein absolutes Highlight des Tonstudio Stuttgart ist das DJ-Pult, das aus einem Flügel besteht. Im oberen Bereich, im früheren Regieraum des Tonstudio Stuttgart, ist die Raucherlounge zu finden. Ein Fenster sorgt für einen tollen Blick auf die darunterliegende Tanzfläche und beschert dem kleinen Floor eine außergewöhnliche Atmosphäre.",
+            "Image": "https://www.kessel.tv/wp-content/uploads/2018/01/Club_Tonstudio_Stuttgart_MainFloor6.jpg",
+            "Link": "https://www.stuttgarter-nachrichten.de/media.media.2b2efaae-2936-4940-83ba-970647a6bbcc.original1024.jpg",
+            "Action": "closing"
+        },
+        {
+            "Name": "Romy S.",
+            "Date": "JANUAR 2019",
+            "Description": "„Nightlife-Schönheit“, „Rave-Grotte“, „Bass-Kammer“ – der Stuttgarter Club Romy S. bekam von seinem großen Stammpublikum schon viele Kosenamen verpasst. Der 2001 eröffnete Club ist seit vier Jahren eines der Aushängeschilder der deutschen House- und Techno-Szene. Möglich gemacht hat das Booker Patrice „Patze“ Grad, der im Winter 2007 den Samstag umkrempelte und der seitdem für eine durchschwitzte Nacht nach der nächsten sorgt. Das Romy landet bei Leser-Umfragen von nationalen Elektro-Magazinen regelmäßig auf den vordersten Plätzen wenn es darum geht, Deutschlands besten Club zu küren. ",
+            "Image": "https://diginights.com/uploads/images/location/r/o/romy-s-stuttgart/preview_image2-default-3.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.nachtleben-in-stuttgart-das-romy-s-schliesst-kein-elektro-mehr-nach-wiedereroeffnung.4b80cfc5-3c3b-4b67-b005-74a238d0c7fe.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Aer Club",
+            "Date": "MÄRZ 2019",
+            "Description": "Das ehemalige OZ, bzw. der P-Club wurde von Grund auf renoviert und komplett neu eingerichtet. Der Eingang befindet sich in der Kronprinzenstrasse. Der Club verfügt über 2 Räume, drei Bars, sowie drei separaten reservierbaren Lounges, die jedem die Möglichkeit bieten mit Freunden einen genussvollen, exklusiven Abend zu genießen.",
+            "Image": "https://dhbw-insider.de/wp-content/uploads/2017/11/Aer13-1280x803.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.stuttgarter-nachtleben-ende-maerz-schliesst-der-aer-club-fuer-immer.208ac17b-f0ca-4237-8fc9-d1d617dd2f51.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Corso Bar",
+            "Date": "MAI 2019",
+            "Description": "Jahrelang wurde hier gestrippt, vor einem knappen Jahr verwandelte sich der Tabledance-Schuppen in einen nicht minder heißen Soul- und Funk-Club. Die Inneneinrichtung blieb unverändert, so dass hübsche Frauen weiterhin Bar und Stangen zum Tanzen nutzen können.",
+            "Image": "https://cdn1.stuttgarter-zeitung.de/media.media.d257e1ac-c573-40fe-b559-47cbc36ca73b.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.ende-mai-ist-schluss-wie-geht-es-mit-der-corso-bar-in-stuttgart-weiter.b314ea92-3ca5-4cad-9cd6-5d549f60fb38.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Rohbau",
+            "Date": "MAI 2019",
+            "Description": "Der trendige, sauber strukturierte Nachfolger des Switzerlands, hat schon längst seinen festen Platz in der Stuttgarter Barkultur eingenommen. Hat man genug vom Gedränge um die Bar herum, wo oftmals spontan eine wilde Tanzfläche entsteht, kann man sich getrost in eine der kuscheligen Lychee-Lounges zurückziehen um dort aus sicherer Entfernung dem bunten Treiben zuzuschauen, oder auch anderen Beschäftigungen, wie leckere Cocktails zu schlürfen, nachzugehen.",
+            "Image": "https://media.eventsofa.de/media_es/cache/venues/13426/5f7d53564fc643c49999b47f2c000f77-9903-orig_1280.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.stuttgarts-feiermeile-schwaechelt-noch-eine-partyinstitution-schliesst-fuer-immer.74a9dc80-1a63-4e9e-a1e3-f51e9952b7b0.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Marquardts",
+            "Date": "JANUAR 2020",
+            "Description": "Im Herzen der City bietet er mit seinen 1300qm die idealen Bedingungen für Partylöwen & Dancing Queens. 6 stylische Bars liefern Cocktails und Drinks vom Feinsten und die besten DJs Deutschlands sorgen für heiße Beats und die richtige Stimmung. Ob EDM, R´n´B oder Retro, jeder findet auf den drei Dancefloors den richtigen Sound für unvergessliche Partynächte.",
+            "Image": "https://cdn1.stuttgarter-zeitung.de/media.media.73b8bd3c-7a94-4250-8c3d-715fb1308e9e.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.nachtleben-in-stuttgart-das-marquardts-an-der-koenigstrasse-schliesst.33220a64-19a2-4847-b804-901d096674c4.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Keller Klub",
+            "Date": "JANUAR 2020",
+            "Description": "Indie vs. Hip Hop. Ein Klo ohne Tür. Jacke vergessen. Treppen. 5 Schließungen angekündigt, jetzt ist es wirklich soweit.",
+            "Image": "https://www.stuttgarter-zeitung.de/media.media.f08274fa-665b-4df9-a6c1-27a21ec8d2b1.original1024.jpg",
+            "Link": "https://www.stuttgarter-zeitung.de/inhalt.nachtleben-in-stuttgart-der-keller-klub-schliesst-jetzt-wirklich.fa98debe-1564-4093-945c-f2432280486d.html?reduced=true",
+            "Action": "closing"
+        },
+        {
+            "Name": "Classic Rock Cafe",
+            "Date": "MÄRZ 2020",
+            "Description": "Wir bieten unseren Gästen ein Ambiente, das nicht nur Rockerherzen höher schlagen lässt. Schnörkellos, aber mit viel Liebe zum Detail präsentiert sich das Classic Rock Café mit rustikalem Interieur auf zwei Ebenen. Die Empore mit bestem Blick auf das Geschehen, ist unser Raucherbereich. Beim Sound ist unser Name Programm: Feinster Classic Rock der letzten 30 Jahre! Klassisch ist auch unsere Küche, wir verwöhnen Sie mit original American Style Food in höchster Qualität.",
+            "Image": "https://www.kessel.tv/wp-content/uploads/2017/07/eiermann_kaufhof.jpg",
+            "Link": "https://www.kessel.tv/2017/07/das-ende-der-subkultur/",
+            "Action": "closing"
+        }
+    ]
+}
