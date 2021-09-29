@@ -160,11 +160,11 @@
             "Action": "closing"
         },
         {
-            "Name": "Classic Rock Cafe",
-            "Date": "MÄRZ 2020",
-            "Description": "Wir bieten unseren Gästen ein Ambiente, das nicht nur Rockerherzen höher schlagen lässt. Schnörkellos, aber mit viel Liebe zum Detail präsentiert sich das Classic Rock Café mit rustikalem Interieur auf zwei Ebenen. Die Empore mit bestem Blick auf das Geschehen, ist unser Raucherbereich. Beim Sound ist unser Name Programm: Feinster Classic Rock der letzten 30 Jahre! Klassisch ist auch unsere Küche, wir verwöhnen Sie mit original American Style Food in höchster Qualität.",
-            "Image": "https://www.kessel.tv/wp-content/uploads/2017/07/eiermann_kaufhof.jpg",
-            "Link": "https://www.kessel.tv/2017/07/das-ende-der-subkultur/",
+            "Name": "Mono Bar",
+            "Date": "SEPTEMBER 2021",
+            "Description": "90er all night long!<br>Welcome Drink: U-Boot & Knicklichter<br>Das beste Musikjahrzehnt im besten Laden der Stadt: so bunt und abgefahren werden 90er Partys nur in der Mono Bar gefeiert. Die Musikstile wechseln nach fünf Songs: Pop like Backstreet Boys, Rock like Nirvana, Techno like Darude, Breaks like Prodigy, HipHop like Fanta 4 und Euro like Dr. Alban werden in einem unfassbaren Mix durch gejagt. Alle tragen bunte Lightsticks und werden mit einem U-Boot am Eingang auf die Reise zurück in 90er eingestimmt. Außerdem verwandeln Laser, Strahler, Strobos und Nebel das mono in ein echtes 90er-Paradies.",
+            "Image": "./assets/img/monoschlange.jpg",
+            "Link": "https://www.facebook.com/mono.stuttgart/posts/5074858342540583",
             "Action": "closing"
         }
     ]
